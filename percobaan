@@ -165,3 +165,55 @@ http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/193
 http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/194
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTWgyGw/superman.png" group-title="SG/MLY",Animal Planet (Eng)
 http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/195
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 3 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 3 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 1 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 2 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 4 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 4 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 5 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 5 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 6 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 6 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 7 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 7 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 8 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 8 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 9 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 9 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein 10 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 10 AR
+http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/56.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 3 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 4 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 5 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 6 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 7 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 8 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 9 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 10 HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR || Bein Sports 11 HD" tvg-logo="" group-title="BEIN SPORTS ",AR || Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 12 English HD" tvg-logo="" group-title="BEIN SPORTS ",AR ||  Bein Sports 12 English HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 14 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS ",Bein Sports 14 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS ",Bein Sports 15 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
