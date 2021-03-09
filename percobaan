@@ -167,6 +167,99 @@ http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/194
 http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/195
 
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",ZQ Drama
+http://iptv.zqstream.com:80/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",FLIX
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",& FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",& PRIVE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HBO(id)
+http://fdtvapps.xyz/channel/hbo.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO
+https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO Hits
+http://fdtvapps.xyz/channel/hbohits.m3u8
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO Signature
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Hbo Family 1
+http://fdtvapps.xyz/channel/hbofam.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", Cinemax
+http://fdtvapps.xyz/channel/cinemax.m3u8
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO 1
+http://fdtvapps.xyz/channel/hbo.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO 
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO hits
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",RedByHbo 1
+http://fdtvapps.xyz/channel/red.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/11673?token=TRcKBRBcRAkVAlULWFQBVwcGBlZbDgVXBABYBlBSW1dQA1NUWgFeVgNBSRpKFxFXU1hvDVwUDgcCUFYFSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDgRRUwZXURQRRlwGRlkWUwsDW0cUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJUCg1BTxBRWkUKTERNFAlEKHJGTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUBwYDRE0UCQxWWkJaEDsTXQIRDUFXCglQVxBP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",MY CINEMA
+http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",CINEMA WORLD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+http://45.126.83.51/uq2663/h/h04/index.m3u8?Live-TV™
+http://45.126.83.51/uq2663/h/h04/01.m3u8
+http://210.210.155.35/uq2663/h/h04/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",CELESTIAL MOVIE
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",BLUE ANT EXTREME
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+http://45.126.83.51/dr9445/h/h15/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",K DRAMA
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",KBS WORLD
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HITS
+http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+http://45.126.83.51/uq2663/h/h37/index.m3u8?
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",K +
+http://210.210.155.35/uq2663/h/h08/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY GEM
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY ONE
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",AXN
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein 3 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 3 AR
 http://52.77.251.116:25461/live/Co-Vision/kat3lpUmlciCzQ/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein 1 AR" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="Bein Sport",Bein 1 AR
@@ -217,3 +310,4 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS ",Bein Sports 15 HD (Match Days Only)
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
+
